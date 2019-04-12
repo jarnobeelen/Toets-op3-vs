@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toets op4", "Toets op4\Toets op4.csproj", "{F96F13CA-1111-46A0-A06A-BDC000F73B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96F13CA-1111-46A0-A06A-BDC000F73B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96F13CA-1111-46A0-A06A-BDC000F73B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96F13CA-1111-46A0-A06A-BDC000F73B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96F13CA-1111-46A0-A06A-BDC000F73B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7B1384-62FC-4BBB-B231-32FF94D42EE5}
+	EndGlobalSection
+EndGlobal
